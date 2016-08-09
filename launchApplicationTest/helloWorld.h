@@ -1,18 +1,13 @@
 //
-//  mytest.m
+//  helloWorld.h
 //  launchApplicationTest
 //
 //  Created by TERRY on 16/8/9.
 //  Copyright © 2016年 huangxun. All rights reserved.
 //
 
-#import "mytest.h"
+#import <Foundation/Foundation.h>
 
-@implementation mytest
-
-- (void)initCommon
-{
-    NSLog(@"");
-}
+@interface helloWorld : NSObject
 
 @end

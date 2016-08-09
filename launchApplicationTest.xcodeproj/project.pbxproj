@@ -13,6 +13,7 @@
 		DED0C86E1CDC20D900896F16 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = DED0C86C1CDC20D900896F16 /* MainMenu.xib */; };
 		DED0C87C1CDC251400896F16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C87B1CDC251400896F16 /* main.m */; };
 		DED21A4A1D59B2B800138809 /* mytest.m in Sources */ = {isa = PBXBuildFile; fileRef = DED21A491D59B2B800138809 /* mytest.m */; };
+		DED21A4D1D59B32000138809 /* helloWorld.m in Sources */ = {isa = PBXBuildFile; fileRef = DED21A4C1D59B32000138809 /* helloWorld.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,8 @@
 		DED0C87B1CDC251400896F16 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DED21A481D59B2B800138809 /* mytest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mytest.h; sourceTree = "<group>"; };
 		DED21A491D59B2B800138809 /* mytest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mytest.m; sourceTree = "<group>"; };
+		DED21A4B1D59B32000138809 /* helloWorld.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = helloWorld.h; sourceTree = "<group>"; };
+		DED21A4C1D59B32000138809 /* helloWorld.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = helloWorld.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				DED0C8671CDC20D900896F16 /* Supporting Files */,
 				DED21A481D59B2B800138809 /* mytest.h */,
 				DED21A491D59B2B800138809 /* mytest.m */,
+				DED21A4B1D59B32000138809 /* helloWorld.h */,
+				DED21A4C1D59B32000138809 /* helloWorld.m */,
 			);
 			path = launchApplicationTest;
 			sourceTree = "<group>";
@@ -201,6 +206,7 @@
 				DED21A4A1D59B2B800138809 /* mytest.m in Sources */,
 				DED0C8691CDC20D900896F16 /* main.m in Sources */,
 				DED0C8661CDC20D900896F16 /* AppDelegate.m in Sources */,
+				DED21A4D1D59B32000138809 /* helloWorld.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
