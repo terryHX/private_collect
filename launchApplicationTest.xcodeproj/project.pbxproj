@@ -12,6 +12,7 @@
 		DED0C86B1CDC20D900896F16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DED0C86A1CDC20D900896F16 /* Assets.xcassets */; };
 		DED0C86E1CDC20D900896F16 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = DED0C86C1CDC20D900896F16 /* MainMenu.xib */; };
 		DED0C87C1CDC251400896F16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C87B1CDC251400896F16 /* main.m */; };
+		DED21A4A1D59B2B800138809 /* mytest.m in Sources */ = {isa = PBXBuildFile; fileRef = DED21A491D59B2B800138809 /* mytest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +37,8 @@
 		DED0C86F1CDC20D900896F16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DED0C8791CDC251400896F16 /* launch */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = launch; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED0C87B1CDC251400896F16 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DED21A481D59B2B800138809 /* mytest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mytest.h; sourceTree = "<group>"; };
+		DED21A491D59B2B800138809 /* mytest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mytest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,8 @@
 				DED0C86C1CDC20D900896F16 /* MainMenu.xib */,
 				DED0C86F1CDC20D900896F16 /* Info.plist */,
 				DED0C8671CDC20D900896F16 /* Supporting Files */,
+				DED21A481D59B2B800138809 /* mytest.h */,
+				DED21A491D59B2B800138809 /* mytest.m */,
 			);
 			path = launchApplicationTest;
 			sourceTree = "<group>";
@@ -193,6 +198,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DED21A4A1D59B2B800138809 /* mytest.m in Sources */,
 				DED0C8691CDC20D900896F16 /* main.m in Sources */,
 				DED0C8661CDC20D900896F16 /* AppDelegate.m in Sources */,
 			);
@@ -356,6 +362,7 @@
 				DED0C8741CDC20D900896F16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DED0C87D1CDC251400896F16 /* Build configuration list for PBXNativeTarget "launch" */ = {
 			isa = XCConfigurationList;
@@ -364,6 +371,7 @@
 				DED0C87F1CDC251400896F16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
