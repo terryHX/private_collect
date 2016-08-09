@@ -17,6 +17,10 @@
     int b = 0;
     
     NSLog(@"");
+    NSLog(@"");
+    NSLog(@"");
+    NSLog(@"");
+    
 }
 
 @end
