@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DEC7912A1D543F050026ECE4 /* myTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DEC791291D543F050026ECE4 /* myTest.m */; };
+		DE33A9971D59EC5100004B05 /* mytest2.m in Sources */ = {isa = PBXBuildFile; fileRef = DE33A9961D59EC5100004B05 /* mytest2.m */; };
 		DED0C8661CDC20D900896F16 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C8651CDC20D900896F16 /* AppDelegate.m */; };
 		DED0C8691CDC20D900896F16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C8681CDC20D900896F16 /* main.m */; };
 		DED0C86B1CDC20D900896F16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DED0C86A1CDC20D900896F16 /* Assets.xcassets */; };
@@ -31,8 +31,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		DEC791281D543F050026ECE4 /* myTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = myTest.h; sourceTree = "<group>"; };
-		DEC791291D543F050026ECE4 /* myTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = myTest.m; sourceTree = "<group>"; };
+		DE33A9951D59EC5100004B05 /* mytest2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mytest2.h; sourceTree = "<group>"; };
+		DE33A9961D59EC5100004B05 /* mytest2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mytest2.m; sourceTree = "<group>"; };
 		DED0C8611CDC20D900896F16 /* launchApplicationTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = launchApplicationTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED0C8641CDC20D900896F16 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DED0C8651CDC20D900896F16 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -95,13 +95,14 @@
 				DED0C86C1CDC20D900896F16 /* MainMenu.xib */,
 				DED0C86F1CDC20D900896F16 /* Info.plist */,
 				DED0C8671CDC20D900896F16 /* Supporting Files */,
-
 				DED21A481D59B2B800138809 /* mytest.h */,
 				DED21A491D59B2B800138809 /* mytest.m */,
 				DED21A4B1D59B32000138809 /* helloWorld.h */,
 				DED21A4C1D59B32000138809 /* helloWorld.m */,
 				DED21A4E1D59CD6E00138809 /* xcode.h */,
 				DED21A4F1D59CD6E00138809 /* xcode.m */,
+				DE33A9951D59EC5100004B05 /* mytest2.h */,
+				DE33A9961D59EC5100004B05 /* mytest2.m */,
 			);
 			path = launchApplicationTest;
 			sourceTree = "<group>";
@@ -212,10 +213,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-
 				DED21A4A1D59B2B800138809 /* mytest.m in Sources */,
 				DED21A501D59CD6E00138809 /* xcode.m in Sources */,
-
+				DE33A9971D59EC5100004B05 /* mytest2.m in Sources */,
 				DED0C8691CDC20D900896F16 /* main.m in Sources */,
 				DED0C8661CDC20D900896F16 /* AppDelegate.m in Sources */,
 				DED21A4D1D59B32000138809 /* helloWorld.m in Sources */,
