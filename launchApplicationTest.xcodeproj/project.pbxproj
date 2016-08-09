@@ -13,7 +13,6 @@
 		DED0C86B1CDC20D900896F16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DED0C86A1CDC20D900896F16 /* Assets.xcassets */; };
 		DED0C86E1CDC20D900896F16 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = DED0C86C1CDC20D900896F16 /* MainMenu.xib */; };
 		DED0C87C1CDC251400896F16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C87B1CDC251400896F16 /* main.m */; };
-		DED21A4A1D59B2B800138809 /* mytest.m in Sources */ = {isa = PBXBuildFile; fileRef = DED21A491D59B2B800138809 /* mytest.m */; };
 		DED21A4D1D59B32000138809 /* helloWorld.m in Sources */ = {isa = PBXBuildFile; fileRef = DED21A4C1D59B32000138809 /* helloWorld.m */; };
 		DED21A501D59CD6E00138809 /* xcode.m in Sources */ = {isa = PBXBuildFile; fileRef = DED21A4F1D59CD6E00138809 /* xcode.m */; };
 /* End PBXBuildFile section */
@@ -42,8 +41,6 @@
 		DED0C86F1CDC20D900896F16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DED0C8791CDC251400896F16 /* launch */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = launch; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED0C87B1CDC251400896F16 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DED21A481D59B2B800138809 /* mytest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mytest.h; sourceTree = "<group>"; };
-		DED21A491D59B2B800138809 /* mytest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mytest.m; sourceTree = "<group>"; };
 		DED21A4B1D59B32000138809 /* helloWorld.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = helloWorld.h; sourceTree = "<group>"; };
 		DED21A4C1D59B32000138809 /* helloWorld.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = helloWorld.m; sourceTree = "<group>"; };
 		DED21A4E1D59CD6E00138809 /* xcode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xcode.h; sourceTree = "<group>"; };
@@ -95,8 +92,6 @@
 				DED0C86C1CDC20D900896F16 /* MainMenu.xib */,
 				DED0C86F1CDC20D900896F16 /* Info.plist */,
 				DED0C8671CDC20D900896F16 /* Supporting Files */,
-				DED21A481D59B2B800138809 /* mytest.h */,
-				DED21A491D59B2B800138809 /* mytest.m */,
 				DED21A4B1D59B32000138809 /* helloWorld.h */,
 				DED21A4C1D59B32000138809 /* helloWorld.m */,
 				DED21A4E1D59CD6E00138809 /* xcode.h */,
@@ -213,7 +208,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DED21A4A1D59B2B800138809 /* mytest.m in Sources */,
 				DED21A501D59CD6E00138809 /* xcode.m in Sources */,
 				DE33A9971D59EC5100004B05 /* mytest2.m in Sources */,
 				DED0C8691CDC20D900896F16 /* main.m in Sources */,
