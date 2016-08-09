@@ -10,4 +10,9 @@
 
 @implementation xcode
 
+- (void)initCommon
+{
+    NSLog(@"asfasdfsdfadsf");
+}
+
 @end
