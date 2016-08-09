@@ -13,6 +13,12 @@
 - (void)initCommon
 {
     NSLog(@"sdfadsfasdf");
+    NSLog(@"sdfadsfasdf");
+    NSLog(@"sdfadsfasdf");
+    NSLog(@"sdfadsfasdf");
+    NSLog(@"sdfadsfasdf");
+
+    
 }
 
 @end
