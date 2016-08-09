@@ -10,4 +10,9 @@
 
 @implementation mytest2
 
+- (void)initCommon
+{
+    return;
+}
+
 @end
