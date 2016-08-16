@@ -14,7 +14,6 @@
 {
     NSLog(@"");
 
-    NSLog(@"");
 
     NSLog(@"");
     NSLog(@"");
