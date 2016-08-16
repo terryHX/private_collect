@@ -11,7 +11,7 @@
 @implementation sdfsd
 - (void)commonInit
 {
-    
+    NSLog(@"");
     return;
 }
 

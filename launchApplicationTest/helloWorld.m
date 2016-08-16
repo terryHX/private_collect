@@ -13,7 +13,7 @@
 - (void)initCommon
 {
     NSLog(@""); NSLog(@""); NSLog(@""); NSLog(@""); NSLog(@""); NSLog(@"");
-    NSLog(@""); NSLog(@""); NSLog(@""); NSLog(@""); NSLog(@""); NSLog(@"");
+    
 
     
 

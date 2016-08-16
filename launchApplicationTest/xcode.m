@@ -13,8 +13,7 @@
 - (void)initCommon
 {
     NSLog(@"");
-    int a = 0;
-    int b = 0;
+
     
     NSLog(@"");
 
