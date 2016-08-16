@@ -9,5 +9,10 @@
 #import "sdfsd.h"
 
 @implementation sdfsd
+- (void)commonInit
+{
+    
+    return;
+}
 
 @end
