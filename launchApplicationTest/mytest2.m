@@ -14,9 +14,7 @@
 {
      NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf");
 
-   NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf");
-     NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf");
-    NSLog(@"");
+
     return;
 }
 
