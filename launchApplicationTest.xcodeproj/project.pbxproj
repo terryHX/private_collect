@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE0B3B311D62BFCD00527DD8 /* sdfsd.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0B3B301D62BFCD00527DD8 /* sdfsd.m */; };
 		DE33A9971D59EC5100004B05 /* mytest2.m in Sources */ = {isa = PBXBuildFile; fileRef = DE33A9961D59EC5100004B05 /* mytest2.m */; };
 		DED0C8661CDC20D900896F16 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C8651CDC20D900896F16 /* AppDelegate.m */; };
 		DED0C8691CDC20D900896F16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C8681CDC20D900896F16 /* main.m */; };
@@ -30,6 +31,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DE0B3B2F1D62BFCD00527DD8 /* sdfsd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sdfsd.h; sourceTree = "<group>"; };
+		DE0B3B301D62BFCD00527DD8 /* sdfsd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sdfsd.m; sourceTree = "<group>"; };
 		DE33A9951D59EC5100004B05 /* mytest2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mytest2.h; sourceTree = "<group>"; };
 		DE33A9961D59EC5100004B05 /* mytest2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mytest2.m; sourceTree = "<group>"; };
 		DED0C8611CDC20D900896F16 /* launchApplicationTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = launchApplicationTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,6 +101,8 @@
 				DED21A4F1D59CD6E00138809 /* xcode.m */,
 				DE33A9951D59EC5100004B05 /* mytest2.h */,
 				DE33A9961D59EC5100004B05 /* mytest2.m */,
+				DE0B3B2F1D62BFCD00527DD8 /* sdfsd.h */,
+				DE0B3B301D62BFCD00527DD8 /* sdfsd.m */,
 			);
 			path = launchApplicationTest;
 			sourceTree = "<group>";
@@ -208,6 +213,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE0B3B311D62BFCD00527DD8 /* sdfsd.m in Sources */,
 				DED21A501D59CD6E00138809 /* xcode.m in Sources */,
 				DE33A9971D59EC5100004B05 /* mytest2.m in Sources */,
 				DED0C8691CDC20D900896F16 /* main.m in Sources */,
