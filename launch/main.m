@@ -22,6 +22,7 @@ int main(int argc, const char * argv[]) {
                                     error:&error];
         
         NSLog(@"%@", error.description);
+          NSLog(@"%@", error.description);  NSLog(@"%@", error.description);
     }
     
     return 0;
