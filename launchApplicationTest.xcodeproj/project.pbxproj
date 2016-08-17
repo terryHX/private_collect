@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		DE0B3B311D62BFCD00527DD8 /* sdfsd.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0B3B301D62BFCD00527DD8 /* sdfsd.m */; };
 		DE33A9971D59EC5100004B05 /* mytest2.m in Sources */ = {isa = PBXBuildFile; fileRef = DE33A9961D59EC5100004B05 /* mytest2.m */; };
+		DE58C1D71D63FF62007216E9 /* sdf.m in Sources */ = {isa = PBXBuildFile; fileRef = DE58C1D61D63FF62007216E9 /* sdf.m */; };
 		DED0C8661CDC20D900896F16 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C8651CDC20D900896F16 /* AppDelegate.m */; };
 		DED0C8691CDC20D900896F16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C8681CDC20D900896F16 /* main.m */; };
 		DED0C86B1CDC20D900896F16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DED0C86A1CDC20D900896F16 /* Assets.xcassets */; };
@@ -35,6 +36,8 @@
 		DE0B3B301D62BFCD00527DD8 /* sdfsd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sdfsd.m; sourceTree = "<group>"; };
 		DE33A9951D59EC5100004B05 /* mytest2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mytest2.h; sourceTree = "<group>"; };
 		DE33A9961D59EC5100004B05 /* mytest2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mytest2.m; sourceTree = "<group>"; };
+		DE58C1D51D63FF62007216E9 /* sdf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sdf.h; sourceTree = "<group>"; };
+		DE58C1D61D63FF62007216E9 /* sdf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sdf.m; sourceTree = "<group>"; };
 		DED0C8611CDC20D900896F16 /* launchApplicationTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = launchApplicationTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED0C8641CDC20D900896F16 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DED0C8651CDC20D900896F16 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -103,6 +106,8 @@
 				DE33A9961D59EC5100004B05 /* mytest2.m */,
 				DE0B3B2F1D62BFCD00527DD8 /* sdfsd.h */,
 				DE0B3B301D62BFCD00527DD8 /* sdfsd.m */,
+				DE58C1D51D63FF62007216E9 /* sdf.h */,
+				DE58C1D61D63FF62007216E9 /* sdf.m */,
 			);
 			path = launchApplicationTest;
 			sourceTree = "<group>";
@@ -218,6 +223,7 @@
 				DE33A9971D59EC5100004B05 /* mytest2.m in Sources */,
 				DED0C8691CDC20D900896F16 /* main.m in Sources */,
 				DED0C8661CDC20D900896F16 /* AppDelegate.m in Sources */,
+				DE58C1D71D63FF62007216E9 /* sdf.m in Sources */,
 				DED21A4D1D59B32000138809 /* helloWorld.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
