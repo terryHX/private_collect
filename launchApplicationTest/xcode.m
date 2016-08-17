@@ -12,7 +12,7 @@
 
 - (void)initCommon
 {
-
+    NSLog(@"");
 }
 
 @end
