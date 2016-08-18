@@ -13,17 +13,9 @@
 - (void)initCommon
 {
      NSLog(@"asfasdfsdfadsf");
-    NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf");
-    
- 
-  
-    
-    NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf");
-
- NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf");
-    NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf");
-    
-    NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf");
+    NSLog(@"branch");
+    NSLog(@"branch");
+    NSLog(@"branch");
     return;
 }
 

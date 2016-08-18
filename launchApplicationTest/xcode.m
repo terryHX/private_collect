@@ -13,6 +13,9 @@
 - (void)initCommon
 {
     NSLog(@"");
+    NSLog(@"branch");
+    NSLog(@"branch");
+    NSLog(@"branch");
 }
 
 @end

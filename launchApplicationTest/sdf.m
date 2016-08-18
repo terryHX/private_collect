@@ -10,4 +10,15 @@
 
 @implementation sdf
 
+- (id)init
+{
+    self = [super init];
+    if (self) {
+        NSLog(@"branch");
+        NSLog(@"branch");
+        NSLog(@"branch");
+    }
+    
+    return self;
+}
 @end
