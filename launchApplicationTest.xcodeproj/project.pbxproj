@@ -16,6 +16,7 @@
 		DED0C87C1CDC251400896F16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DED0C87B1CDC251400896F16 /* main.m */; };
 		DED21A4D1D59B32000138809 /* helloWorld.m in Sources */ = {isa = PBXBuildFile; fileRef = DED21A4C1D59B32000138809 /* helloWorld.m */; };
 		DED21A501D59CD6E00138809 /* xcode.m in Sources */ = {isa = PBXBuildFile; fileRef = DED21A4F1D59CD6E00138809 /* xcode.m */; };
+		E55CADF21D65837B00127BFF /* test2.m in Sources */ = {isa = PBXBuildFile; fileRef = E55CADF11D65837B00127BFF /* test2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -48,6 +49,8 @@
 		DED21A4C1D59B32000138809 /* helloWorld.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = helloWorld.m; sourceTree = "<group>"; };
 		DED21A4E1D59CD6E00138809 /* xcode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xcode.h; sourceTree = "<group>"; };
 		DED21A4F1D59CD6E00138809 /* xcode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = xcode.m; sourceTree = "<group>"; };
+		E55CADF01D65837B00127BFF /* test2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test2.h; sourceTree = "<group>"; };
+		E55CADF11D65837B00127BFF /* test2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +106,8 @@
 				DE33A9961D59EC5100004B05 /* mytest2.m */,
 				DE0B3B2F1D62BFCD00527DD8 /* sdfsd.h */,
 				DE0B3B301D62BFCD00527DD8 /* sdfsd.m */,
+				E55CADF01D65837B00127BFF /* test2.h */,
+				E55CADF11D65837B00127BFF /* test2.m */,
 			);
 			path = launchApplicationTest;
 			sourceTree = "<group>";
@@ -216,6 +221,7 @@
 				DE0B3B311D62BFCD00527DD8 /* sdfsd.m in Sources */,
 				DED21A501D59CD6E00138809 /* xcode.m in Sources */,
 				DE33A9971D59EC5100004B05 /* mytest2.m in Sources */,
+				E55CADF21D65837B00127BFF /* test2.m in Sources */,
 				DED0C8691CDC20D900896F16 /* main.m in Sources */,
 				DED0C8661CDC20D900896F16 /* AppDelegate.m in Sources */,
 				DED21A4D1D59B32000138809 /* helloWorld.m in Sources */,
