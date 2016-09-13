@@ -12,7 +12,7 @@
 - (void)commonInit
 {
     NSLog(@"");
-
+NSLog(@"asfasdfsdfadsf"); NSLog(@"asfasdfsdfadsf");
 NSLog(@"");NSLog(@"");NSLog(@"");NSLog(@"");NSLog(@"");
     return;
 }
