@@ -14,6 +14,8 @@
 @property (nonatomic,assign) NSString *y2;
 
 @property (nonatomic,assign) NSString *y3;
+@property (nonatomic,assign) NSString *y4;
+@property (nonatomic,assign) NSString *y5;
 
 
 @end
