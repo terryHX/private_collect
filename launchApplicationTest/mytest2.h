@@ -11,8 +11,7 @@
 @interface mytest2 : NSObject
 @property (nonatomic,assign) NSString *y1;
 @property (nonatomic,assign) NSString *y2;
-@property (nonatomic,assign) NSString *y5;
-@property (nonatomic,assign) NSString *y26;
+
 
 
 @end
