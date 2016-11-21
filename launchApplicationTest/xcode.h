@@ -10,5 +10,7 @@
 
 @interface xcode : NSObject
 @property (nonatomic,assign) NSString *y;
+@property (nonatomic,assign) NSString *y1;
+@property (nonatomic,assign) NSString *y2;
 
 @end
