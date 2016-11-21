@@ -9,5 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface xcode : NSObject
+@property (nonatomic,assign) NSString *y;
 
 @end
